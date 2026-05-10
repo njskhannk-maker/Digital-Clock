@@ -1,0 +1,25 @@
+
+/* BODY CENTER */
+body {
+    text-align: center;
+    background-color: #0c6985;
+    color: #fff;
+    text-shadow: #073341 20px 10px 10px;
+    font-family: 'Arial', sans-serif;
+    font-size: 5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* CLOCK BOX */
+#clock {
+    background-color: #1f2937;
+    color: #00ffcc;
+    padding: 25px 50px;
+    border-radius: 180px;
+    font-size: 50px;
+    font-weight: bold;
+    box-shadow: 0 0 20px rgba(0, 255, 204, 0.5);
+    border: 40px solid #00ffcc;
+}
